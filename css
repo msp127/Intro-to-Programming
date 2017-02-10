@@ -1,0 +1,17 @@
+body {
+	background-color: #edceff;
+	font-family: centurygothic;
+}
+.stage {
+	background-color: white;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #351363;
+	border-radius: 20px;
+	padding: 1px;
+	margin: 7px;
+}
+.concept {
+	background-color: #ffddfc;
+}
